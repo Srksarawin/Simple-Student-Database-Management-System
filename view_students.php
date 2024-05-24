@@ -72,10 +72,7 @@ $result = $conn->query($sql);
         ?>
     </table>
    
-    <a href="edit_student.php"
-		style="font-size:30px; float:bottom;">
-		Edit
-	</a>
+   
 
     
 </body>
